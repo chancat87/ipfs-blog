@@ -3,7 +3,7 @@ title: "IPFS is moving beyond the sponsored gateways"
 description: "How IPFS is shifting from centralized public gateways to distributed infrastructure and client-side retrieval."
 date: 2026-08-25
 permalink: '/2026-08-beyond-sponsored-gateways/'
-header_image: '/beyond-sponsored-gateways-header.png'
+header_image: '/2026-08-beyond-sponsored-gateways-header.png'
 tags:
   - ipfs
   - gateways
